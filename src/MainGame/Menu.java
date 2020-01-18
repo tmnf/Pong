@@ -33,7 +33,7 @@ public class Menu implements Drawable {
 				pong.getHeight() - 50);
 		g.setColor(Color.RED);
 		g.setFont(new Font("Arial", 1, 15));
-		g.drawString("By: Tiago Farinha (Cr4ckHead)", pong.getWidth() - 280, pong.getHeight() - 100);
+		g.drawString("By: Tiago Farinha", pong.getWidth() - 280, pong.getHeight() - 100);
 
 	}
 
